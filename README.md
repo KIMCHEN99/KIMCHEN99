@@ -1,16 +1,11 @@
-# Hi there, I'm KIMCHEN99 👋
-### 🛡️ Security & Network Engineer in the making
+# HI!
+인프라와 보안을 사랑하는 한라대 AI정보보안학과 학생 KIMCHEN99입니다.
 
-보안 및 네트워크 솔루션 엔지니어를 목표로 하는 있는 한라대 AI정보보안학과 학생입니다. 
-클라우드 환경 구축 및 네트워크 장비 유지보수 실무 경험을 보유하고 있습니다. 
+과거 네트워크 엔지니어로 스위치와 라우터를 다루며 인프라의 기본기를 다졌고 시스템과 보안 지식을 쌓기 위해 학교에 입학해 AI와 정보보안을 배우고 있습니다. 
+현재 교내 챗봇 동아리의 서버 팀장을 맡아 AWS와 Nginx를 활용해 직접 서버 환경을 구축하고 트러블슈팅 담당하고 있습니다.
 
-현재 단순한 인프라 운영을 넘어 Python과 AI를 활용한 데이터 처리 및 보안 업무 자동화에 깊은 관심을 두고 학습하고 있습니다.
-
-## 👨‍💻 About Me
-* 🌐 **Infrastructure & Network:** 스위치/라우터 등 네트워크 장비 유지보수 실무 경험이 있으며, **HCIA-Datacom** 자격을 보유하고 있습니다.
-* ☁️ **Cloud & Server:** 챗봇 동아리 서버 팀장으로서 **AWS, Linux(Ubuntu), Nginx** 환경에서의 웹 서버 구축 및 운영 경험이 있습니다.
-* 🤖 **Automation & Data:** **Python**을 활용한 스크립팅과 API 연동에 익숙하며, 데이터 분석(R) 역량을 기르기 위해 ADsP를 준비 중입니다.
-* 📝 **Tech Trend & Record:** 제로트러스트, 랜섬웨어 등 최신 보안 동향을 꾸준히 팔로우업하며, 배운 것을 노션과 깃허브에 기록하는 습관을 지향합니다.
+Python 기반의 스크립팅과 데이터 다루는 기술을 더해 인프라를 더 효율적이고 안전하게 관리하는 엔지니어로 성장하는 것이 목표입니다.
+에러 해결 과정과 새롭게 배운 점들을 기록하는 것을 좋아합니다!
 
 ## 🛠 Tech Stack
 > **Infrastructure & Cloud**
@@ -22,11 +17,14 @@
 > **Programming & Data**
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
 
-## 🚀 Current Focus
-* 오픈소스 보안 도구(Snort, Suricata 등) 실습 및 로그 분석
-* Python 및 OpenAI API를 활용한 보안 자동화 스크립트 작성
-* ADsP 자격증 취득을 통한 데이터 분석 역량 강화
+## 📜 Certifications
+* **HCIA-Datacom** (Huawei Certified ICT Associate)
+
+## 💻 Experience & Projects
+* **네트워크 엔지니어 근무:** 네트워크 인프라 구축 및 스위치/라우터 장비 유지보수
+* **교내 동아리 서버 팀장:** AWS EC2 기반 웹 서버 아키텍처 설계 및 Nginx 환경 구축
+* **TIL (Today I Learned):** 노션과 깃허브를 활용한 IT/보안 지식 꾸준한 기록
 
 ## 🔗 Connect with me
-* 📧 Email: [poketmon624@gmail.com]
-* 📚 Notion Portfolio: [노션 포트폴리오 링크 (https://www.notion.so/Security-Network-Engineer-Portfolio-36cdd130c15b80a79abff977e54ac0e5?source=copy_link)]
+* 📧 Email: [본인의 이메일 주소]
+* 📚 Notion Portfolio: [노션 포트폴리오 링크 (추후 추가)]
