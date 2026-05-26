@@ -1,10 +1,10 @@
 # Hi there, I'm KIMCHEN99 👋
 ### 🛡️ Security & Network Engineer in the making
 
-보안 및 네트워크 솔루션 엔지니어를 목표로 매일 성장하고 있는 AI정보보안학과 학생입니다. 
-탄탄한 인프라(OS, Network) 지식을 바탕으로 클라우드 환경 구축 및 네트워크 장비 유지보수 실무 경험을 보유하고 있습니다. 
+보안 및 네트워크 솔루션 엔지니어를 목표로 하는 있는 한라대 AI정보보안학과 학생입니다. 
+클라우드 환경 구축 및 네트워크 장비 유지보수 실무 경험을 보유하고 있습니다. 
 
-현재는 단순한 인프라 운영을 넘어, Python과 AI(LLM)를 활용한 데이터 처리 및 보안 업무 자동화에 깊은 관심을 두고 학습하고 있습니다.
+현재 단순한 인프라 운영을 넘어 Python과 AI를 활용한 데이터 처리 및 보안 업무 자동화에 깊은 관심을 두고 학습하고 있습니다.
 
 ## 👨‍💻 About Me
 * 🌐 **Infrastructure & Network:** 스위치/라우터 등 네트워크 장비 유지보수 실무 경험이 있으며, **HCIA-Datacom** 자격을 보유하고 있습니다.
@@ -20,4 +20,13 @@
 <img src="https://img.shields.io/badge/Network-0487D9?style=flat-square&logo=cisco&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
 
 > **Programming & Data**
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src=">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+
+## 🚀 Current Focus
+* 오픈소스 보안 도구(Snort, Suricata 등) 실습 및 로그 분석
+* Python 및 OpenAI API를 활용한 보안 자동화 스크립트 작성
+* ADsP 자격증 취득을 통한 데이터 분석 역량 강화
+
+## 🔗 Connect with me
+* 📧 Email: [poketmon624@gmail.com]
+* 📚 Notion Portfolio: [노션 포트폴리오 링크 (https://www.notion.so/Security-Network-Engineer-Portfolio-36cdd130c15b80a79abff977e54ac0e5?source=copy_link)]
